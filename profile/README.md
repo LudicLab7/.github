@@ -5,6 +5,7 @@
 ## Nasi deweloperzy
 - [Myszka30](https://github.com/orgs/LudicLab7/people/Myszka30)
 - [Bbolken1q](https://github.com/orgs/LudicLab7/people/Bbolken1q)
+- [Devkraft](https://github.com/orgs/LudicLab7/people/Devkraft1)
 - [egapcio](https://github.com/orgs/LudicLab7/people/egapcio)
 - [Bałtek](https://github.com/orgs/LudicLab7/people/krzeslo2)
 - [Oskar](https://github.com/orgs/LudicLab7/people/OskarMulawa)
